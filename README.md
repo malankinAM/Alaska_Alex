@@ -1,6 +1,6 @@
 #   Alaska_alex
 
-The accordion slider is an interesting solution.
+## Click ('https://malankinam.github.io/Alaska_Alex/')
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -10,4 +10,4 @@ The accordion slider is an interesting solution.
  
  <img src="./readme-images/screencapture-127-0-0-1-5500-index-html-2023-11-09-22_28_31.png" />
 
-## Click ('https://malankinam.github.io/Alaska_Alex/')
+
