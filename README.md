@@ -8,6 +8,6 @@ The accordion slider is an interesting solution.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp 
 </div>
  
- <img src="./readme-images/screencapture-127-0-0-1-5500-index-html-2023-11-09-22_28_31.png" title="css" alt="css" width="400" height="200"/>
+ <img src="./readme-images/screencapture-127-0-0-1-5500-index-html-2023-11-09-22_28_31.png" />
 
-## Click ('')
+## Click ('https://malankinam.github.io/Alaska_Alex/')
